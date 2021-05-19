@@ -1,0 +1,10 @@
+style:
+  version: VERSION
+  css:
+    theme:
+      assets/css/drupal_project.style.css: {}
+  js:
+    assets/js/drupal_project.script.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal

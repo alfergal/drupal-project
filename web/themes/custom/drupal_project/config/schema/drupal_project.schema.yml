@@ -1,0 +1,5 @@
+# Schema for the configuration files of the drupal_project theme.
+
+drupal_project.settings:
+  type: theme_settings
+  label: 'drupal_project settings'
